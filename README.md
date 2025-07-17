@@ -1,4 +1,7 @@
 Flappy Bird game using C# and Unity
 
+TODO(Ranked by priority):
 
-This game is made using Unity Editor and C#
+1. Add a 'Quit' option to quit the game
+2. Make it so that the difficulty increases the more the player plays
+3. Make a 'Welcome Screen'
